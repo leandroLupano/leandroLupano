@@ -13,7 +13,7 @@ Welcome to my GitHub, where you can find some of my repositories.
 </p>
 
 
-<h3 align="left">Tools and Technologies:</h3>
+<h2 align="left">Tools and Technologies:</h2>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/">
@@ -22,14 +22,14 @@ Welcome to my GitHub, where you can find some of my repositories.
 </p>
 
 
-<h3 align="left">Some of my hobbies:</h3>
+<h2 align="left">Some of my hobbies:</h2>
 
 <p align="left">
 🏀 ⚽ 🎸 ✈ 📖
 </p>
 
 
-<h3 align="left">Contact me:</h3>
+<h2 align="left">Contact me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/leandrolupano" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
