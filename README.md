@@ -19,7 +19,7 @@ Welcome to my GitHub, where you can find some of my repositories.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js, react, redux, html, css, sass, git, github, jest, nodejs, express, mongodb, postman, firebase, netlify, figma" />
+    <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,sass,git,github,jest,nodejs,express,mongodb,postman,firebase,netlify,figma"/>
   </a>
 </p>
 
@@ -34,7 +34,7 @@ Welcome to my GitHub, where you can find some of my repositories.
 <h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/leandrolupano" target="blank">
-    <img src="https://skillicons.dev/icons?i=js, linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
