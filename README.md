@@ -19,7 +19,7 @@ Welcome to my GitHub, where you can find some of my repositories.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,sass,git,github,jest,nodejs,express,mongodb,postman,firebase,netlify,figma"/>
+    <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,sass,git,jest,nodejs,express,mongodb,postman,firebase,netlify,figma"/>
   </a>
 </p>
 
