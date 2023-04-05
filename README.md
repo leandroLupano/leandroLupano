@@ -3,7 +3,7 @@
 <h1 align="center">Hi, this is Leandro! 👋</h1>
 
 <p align="left">
-I am a full stack developer who has recently started in this field, but I am extremely passionate and motivated about software technology.
+I am a fullstack developer who has recently started in this field, but I am extremely passionate and motivated about software technology.
 <br>
 Also, I have a degree in mechanical engineering where I have been working for more than 10 years around different areas.
 <br>
