@@ -7,7 +7,7 @@ I am a fullstack developer who has recently started in this field, but I am extr
 <br>
 Also, I have a degree in mechanical engineering where I have been working for more than 10 years around different areas.
 <br>
-My first contact with programming was in the automotive industry with robots, which led me to pursue this new path after a couple of years.
+My first contact with programming was in the automotive industry with robots, which led me to pursue this new path.
 <br>
 Welcome to my GitHub, where you can find some of my repositories.
 </p>
