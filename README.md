@@ -17,7 +17,7 @@ Welcome to my GitHub, where you can find some of my repositories.
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,sass,git,jest,nodejs,express,mongodb,postman,firebase,netlify,figma"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,git,jest,nodejs,express,mongodb,postman,firebase,netlify,figma,discord"/>
   </a>
 </p>
 
