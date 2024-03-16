@@ -3,11 +3,13 @@
 <h1 align="center">Hi, this is Leandro! 👋</h1>
 
 <p align="left">
-I am a fullstack developer extremely passionate and motivated about software technology.
+I am a Full Stack Developer extremely passionate and motivated about software technology.
 <br>
-Additionally, I have a degree in mechanical engineering where I have been working for more than 10 years around different areas allowing me to develop analytical thinking and problem-solving skills among others, that helps me today as a programmer.
+I have experience developing Backend RESTful APIs using Java and Spring Boot within a microservice architecture that includes Docker, Kubernetes, Tanzu, and MongoDB.
+Moreover, I have expertise in projects involving Node.js and Express.
+On the Frontend, I have worked on developing interactive websites with JavaScript and TypeScript, along with React, Redux, HTML, CSS, and Sass.
 <br>
-My first exposure to programming was through my work with robots in the automotive industry, which piqued my interest in pursuing this path.
+Additionally, I have a degree in mechanical engineering and have worked in different fields which has allowed me to develop skills such as analytical thinking and problem-solving, that complement my profile as a developer.
 <br>
 Welcome to my GitHub, where you can find some of my repositories.
 </p>
@@ -17,7 +19,7 @@ Welcome to my GitHub, where you can find some of my repositories.
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,git,jest,nodejs,express,mongodb,postman,firebase,netlify,figma,discord"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,kubernetes,js,ts,react,redux,html,css,sass,jest,nodejs,express,mongodb,mysql,aws,postman,firebase,git,github,bitbucket,netlify,figma,discord"/>
   </a>
 </p>
 
