@@ -19,7 +19,7 @@ Welcome to my GitHub, where you can find some of my repositories.
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,kubernetes,js,ts,react,redux,html,css,sass,jest,nodejs,express,mongodb,mysql,aws,postman,firebase,git,github,bitbucket,netlify,figma,discord"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,kubernetes,kafka,rabbitmq,py,nodejs,express,npm,js,ts,react,redux,html,css,sass,jest,postman,mongodb,mysql,postgres,aws,firebase,git,github,gitlab,bitbucket,grafana,idea,vscode"/>
   </a>
 </p>
 
