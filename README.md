@@ -5,11 +5,11 @@
 <p align="left">
 I am a Full Stack Developer extremely passionate and motivated about software technology.
 <br>
-I have experience developing Backend RESTful APIs using Java and Spring Boot within a microservice architecture that includes Docker, Kubernetes, Tanzu, and MongoDB.
-Moreover, I have expertise in projects involving Node.js and Express.
-On the Frontend, I have worked on developing interactive websites with JavaScript and TypeScript, along with React, Redux, HTML, CSS, and Sass.
+I have experience designing and implementing scalable solutions, focusing on REST APIs and microservice architecture. I specialize in using technologies such as Java, Spring Boot, Docker, Kubernetes, Kafka, and CI/CD pipelines, working within Agile methodologies.
+Additionally, I have contributed to projects involving Node.js, Express, Python, and Groovy.
+On the Frontend, I have developed interactive and responsive websites using JavaScript and TypeScript, along with React, Redux, HTML, CSS, and Sass.
 <br>
-Additionally, I have a degree in mechanical engineering and have worked in different fields which has allowed me to develop skills such as analytical thinking and problem-solving, that complement my profile as a developer.
+Besides that, my background in mechanical engineering and diverse work experience has equipped me with analytical thinking and problem-solving skills, which complement my professional profile.
 <br>
 Welcome to my GitHub, where you can find some of my repositories.
 </p>
@@ -19,7 +19,7 @@ Welcome to my GitHub, where you can find some of my repositories.
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,kubernetes,kafka,rabbitmq,py,nodejs,express,npm,js,ts,react,redux,html,css,sass,jest,postman,mongodb,mysql,postgres,aws,firebase,git,github,gitlab,bitbucket,grafana,idea,vscode"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,kubernetes,kafka,rabbitmq,py,nodejs,express,npm,js,ts,react,redux,html,css,sass,jest,postman,mongodb,mysql,postgres,aws,firebase,elasticsearch,git,github,gitlab,bitbucket,grafana,idea,vscode"/>
   </a>
 </p>
 
